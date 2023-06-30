@@ -26,23 +26,23 @@ find a solution for this issue.
 
 # Presentation
 
-[Checkout The Full Presentation](https://github.com/javaMPR/uhs/raw/main/content/javaprojectfinal.ppsx)
+[Checkout The Full Presentation](https://github.com/SumilSuthar197/Universal-HealthCare-System/raw/main/content/javaprojectfinal.ppsx)
 
 
 # Snippets
 
 ### Doctor Login
-![login](https://github.com/javaMPR/uhs/blob/main/content/Images/Screenshot_20221027_095911.png)
+![login](https://github.com/SumilSuthar197/Universal-HealthCare-System/blob/main/content/Images/Screenshot_20221027_095911.png)
 ### Doctor Dashboard
-![Doctor Dashboard](https://github.com/javaMPR/uhs/blob/main/content/Images/Screenshot_20221105_090400.png)
+![Doctor Dashboard](https://github.com/SumilSuthar197/Universal-HealthCare-System/blob/main/content/Images/Screenshot_20221105_090400.png)
 ### Add Report
-![New Report](https://github.com/javaMPR/uhs/blob/main/content/Images/Screenshot_20221105_090612.png)
+![New Report](https://github.com/SumilSuthar197/Universal-HealthCare-System/blob/main/content/Images/Screenshot_20221105_090612.png)
 ### View Report
-![View Report](https://github.com/javaMPR/uhs/blob/main/content/Images/Screenshot_20221105_091852.png)
+![View Report](https://github.com/SumilSuthar197/Universal-HealthCare-System/blob/main/content/Images/Screenshot_20221105_091852.png)
 ### Patient Login
-![login Patient](https://github.com/javaMPR/uhs/blob/main/content/Images/Screenshot_20221027_100741.png)
+![login Patient](https://github.com/SumilSuthar197/Universal-HealthCare-System/blob/main/content/Images/Screenshot_20221027_100741.png)
 ### Patient Dashboard
-![Patient Dashboard](https://github.com/javaMPR/uhs/blob/main/content/Images/Screenshot_20221105_092546.png)
+![Patient Dashboard](https://github.com/SumilSuthar197/Universal-HealthCare-System/blob/main/content/Images/Screenshot_20221105_092546.png)
 ### Patient Details
-![Patient Details](https://github.com/javaMPR/uhs/blob/main/content/Images/Screenshot_20221105_092729.png)
+![Patient Details](https://github.com/SumilSuthar197/Universal-HealthCare-System/blob/main/content/Images/Screenshot_20221105_092729.png)
 
